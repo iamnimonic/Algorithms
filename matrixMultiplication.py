@@ -3,7 +3,7 @@
 
 # so, I've just finished watching the lecture and I've reached to a conclusion that Straussen's algorithm uses 7 product that subs the general divide and conquer approach for matrix 
 # multiplication of time complexity O(n^3)
-# In this script I'll generate two random 2x2 matrices and multiply them using the initial algo
+# In this script I'll generate random nxn matrix
 
 import random
 
